@@ -3,7 +3,7 @@
 ## Instalación
 
 ```bash
-git clone https://github.com/Sharif-Garcia/biblioteca-digital.git
+git clone https://github.com/Sharif-Garcia/ORM.git
 cd biblioteca-digital
 npm install
 npx sequelize-cli db:migrate
